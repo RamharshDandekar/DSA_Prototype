@@ -93,7 +93,7 @@ const HeroSection = () => {
           className="w-full h-auto"
         >
           <img
-            src="/pic.img"
+            src="src/components/home/pic.png"
             alt="Virtual Lab Illustration"
             className="w-full h-auto max-w-[600px] mx-auto drop-shadow-xl"
           />
